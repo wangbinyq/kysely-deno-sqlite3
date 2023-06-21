@@ -1,0 +1,6 @@
+{
+  "lock": false,
+  "imports": {
+    "kysely": "https://esm.sh/kysely@0.25.0"
+  }
+}
